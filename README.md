@@ -1,34 +1,10 @@
 # Hello_World
-# ***Table Of Contents***
-- Title
-- Description
-- How to Run Program
-- Files Used
-- Additional Documentation
-- Versioning
----
+***Practice Repository***
 
-# ***Project Title***
-Hello World Practice Repository
+I am currently a student at the Univeristy of Iowa in the Tippie College of Business. My areas of study include:
 
-# ***Description***
-> **The purpose of this repository is simply for practice using GitHub. The contents of the repository hold no value and are only examples for greater understanding.**
+- B.B.A Economics
+- B.B.A Business Analytics/Information Systems
+- Minor Political Science
 
-# ***How To Run Program***
-Hello_World
-    ---> PLEASEREAD.md
-    ---> math1.R
-    ---> Hello-world-data.csv
-    ---> Coding.html
-    
-# ***Files Used***
-- PLEASEREAD.md
-- math1.R
-- Hello-world-data.csv
-- Coding.html
-
-# ***Additional Documentation***
-> *None at this time*
-
-# ***Versioning***
-> Collaborate on any major changes that may be required for the code.
+This practice repository is a great way for me to better my understanding of GitHub and further my professional development.
