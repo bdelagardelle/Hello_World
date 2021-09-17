@@ -1,5 +1,5 @@
 # Hello_World
-**Practice Repository**
+***Practice Repository***
 
 I am currently a student at the Univeristy of Iowa in the Tippie College of Business. My areas of study include:
 - B.B.A Economics
